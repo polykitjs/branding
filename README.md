@@ -3,11 +3,18 @@ Here you will find any logos/banners/art we have had made for PolyKit! Most item
 
 <br />
 
-# Items
-- Logo
-    1. Circular
-    2. Square
-    3. Transparent
+# Logos
+![Circular](/logos/circular.svg)
+![Square](/logos/square.svg)
+![Transparent](/logos/transparent.svg)
+
 
 # Credit
 - Logo by [Fractal](https://github.com/FractalHQ)
+
+
+<style>
+    img {
+        max-width: 164px;
+    }
+</style>
